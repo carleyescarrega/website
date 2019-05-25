@@ -1,2 +1,2 @@
 # website
-Bootsraps themed website
+Bootstrap themed website
